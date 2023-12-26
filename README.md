@@ -35,4 +35,4 @@
 </br></br></br>
 
 # Inspiração pro seu coding
-[![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/chaotichermit)
+[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/chaotichermit)
