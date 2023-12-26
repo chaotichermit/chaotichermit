@@ -1,7 +1,7 @@
 ## Olá, sou o Jhonatan! ✋
 
-### Amante da tecnologia da informação 🖥️👾
-#### Desenvolvedor, analista de segurança da informação e DJ 🎶🤖👨‍💻
+### Amante de tecnologia da informação 🖥️👾
+#### Desenvolvedor, analista de segurança da informação, DJ e pesquisador 🎶🤖👨‍💻
 
 #### Desenvolvimentos do meu dia a dia
 
@@ -15,6 +15,9 @@
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></img>
 <img align="center" alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></img>
 <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></img>
+<img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+
+
 </div></br>
 
 ### ❤️Apaixonado por ❤️
