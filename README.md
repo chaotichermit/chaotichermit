@@ -1,6 +1,6 @@
 ## Olá, sou o Jhonatan! ✋
 
-### Amante de tecnologia da informação 🖥️👾
+### Amante da tecnologia da informação 🖥️👾
 #### Desenvolvedor, analista de segurança da informação e DJ 🎶🤖👨‍💻
 
 #### Desenvolvimentos do meu dia a dia
